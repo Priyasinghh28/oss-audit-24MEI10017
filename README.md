@@ -33,8 +33,8 @@ bash scripts/script4.sh
 bash scripts/script5.sh
 ```
 
----
 
-## Dependencies
+
+Dependencies
 No installation needed. All tools (bash, grep, awk, dpkg) come
 pre-installed on Ubuntu and GitHub Codespaces.
