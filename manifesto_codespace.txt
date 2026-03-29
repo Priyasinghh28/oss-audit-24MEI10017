@@ -1,0 +1,27 @@
+==================================================
+         MY OPEN SOURCE MANIFESTO
+         Written on: 29 March 2026
+==================================================
+
+  (This is based on your answers above)
+
+  I believe that technology should serve people
+  not the other way around.
+
+  Every single day, I use git — a tool built
+  openly and shared freely by people who believed
+  that knowledge belongs to everyone.
+
+  To me, freedom means choice — and that matters.
+  In software, that is the right to read, change,
+  and share the tools that shape our world.
+
+  One day I will build a study app and release it
+  freely — because I have benefited from those
+  who came before me, and I intend to give back.
+
+  Open source is not just a license.
+  It is a promise to the world.
+
+  — codespace | 29 March 2026
+==================================================
