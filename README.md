@@ -22,9 +22,43 @@ Scripts
 | script5.sh | Manifesto Generator — saves your OSS philosophy to a file |
 
 Shell Scripts - Outputs
+
+
 script1.sh : System Identity Report — shows OS, kernel, user, uptime
+
 <img width="1006" height="761" alt="image" src="https://github.com/user-attachments/assets/99831a77-6cf0-48c7-a627-09f8dc910f7c" />
-script 
+
+ script2.sh  FOSS Package Inspector — checks if Git is installed
+ 
+ <img width="1006" height="577" alt="image" src="https://github.com/user-attachments/assets/cce6d81e-82ef-4d16-89ba-245db628ff1f" />
+
+script3.sh   Disk and Permission Auditor — loops through directories 
+
+<img width="1006" height="617" alt="image" src="https://github.com/user-attachments/assets/c23ff901-d727-4355-ae8f-725a733ff7ac" />
+<img width="1006" height="750" alt="image" src="https://github.com/user-attachments/assets/1da63785-df3c-421e-a326-16dca8328f17" />
+
+
+
+script4.sh  Log File Analyzer — counts keywords in a log file 
+<img width="1006" height="632" alt="image" src="https://github.com/user-attachments/assets/4fff03e3-9bd1-4b38-9868-de463de5eacf" />
+
+
+
+ script5.sh  Manifesto Generator — saves your OSS philosophy to a file
+<img width="1006" height="799" alt="image" src="https://github.com/user-attachments/assets/28b376c4-5b31-4a33-b338-8bf1b525f46c" />
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
 
 
  How to Run
