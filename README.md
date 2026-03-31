@@ -21,6 +21,12 @@ Scripts
 | script4.sh | Log File Analyzer — counts keywords in a log file         |
 | script5.sh | Manifesto Generator — saves your OSS philosophy to a file |
 
+Shell Scripts - Outputs
+script1.sh : System Identity Report — shows OS, kernel, user, uptime
+<img width="1006" height="761" alt="image" src="https://github.com/user-attachments/assets/99831a77-6cf0-48c7-a627-09f8dc910f7c" />
+script 
+
+
  How to Run
 ```bash
 git clone https://github.com/yourusername/oss-audit-rollnumber.git
